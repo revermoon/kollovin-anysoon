@@ -1,0 +1,8 @@
+{
+  "name": "Remix: KOL Link - 中小KOL商业化平台",
+  "description": "为中小KOL提供无偿公平换量服务、AI驱动广告商业会平台（CPS/CPA）、数据分析仪表盘、付费粉丝精细化运营及私域沉淀等功能的一站式变现系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
